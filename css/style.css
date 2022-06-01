@@ -38,7 +38,7 @@ footer {
 }
 
 header {
-  background-color: rgba(102, 25, 175, 0.651);
+  background: radial-gradient(blueviolet, white);
 }
 
 .titulo {
